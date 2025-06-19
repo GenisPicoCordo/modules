@@ -1,2 +1,2 @@
 # modules
-Ten pdf with exercices to lear C++
+Ten pdf with exercices to learn C++
